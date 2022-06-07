@@ -1,7 +1,5 @@
 # FAQ
 
-[[toc]]
-
 ## Will there be a token?
 
 Yes
